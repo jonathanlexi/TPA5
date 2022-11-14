@@ -1,0 +1,33 @@
+li {
+  list-style: none;
+  border: 1px solid black;
+  padding: 10px;
+  width: 50%;
+  margin: auto;
+  margin-bottom: 5px;
+  background-color: antiquewhite;
+}
+
+.btns {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+
+textarea {
+  text-align: center;
+  width: 50%;
+  color: black;
+  background-color: antiquewhite;
+  font-size: 20px;
+  resize: none;
+  border: 1px solid antiquewhite;
+}
+.completed {
+  color: black;
+  background-color: greenyellow;
+  padding: 5px;
+  border-radius: 5px;
+}

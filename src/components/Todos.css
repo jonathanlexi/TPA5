@@ -1,0 +1,28 @@
+.input-section {
+  display: flex;
+  justify-content: center;
+  gap: 5px;
+  margin: 20px;
+}
+
+.todo-input {
+  border-radius: 10px;
+  width: 40%;
+  border: 1px solid #edddd4;
+  text-align: center;
+  background-color: #edddd4;
+  font-size: 20px;
+}
+
+.add-btn {
+  border-radius: 10px;
+  border: 1px solid #edddd4;
+  width: 60px;
+  padding: 5px;
+  background-color: #edddd4;
+}
+
+.add-btn:hover {
+  background-color: greenyellow;
+  cursor: pointer;
+}
